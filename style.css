@@ -5,6 +5,33 @@ img {
 body {
     text-align: center;
     font-family: 'Arial';
-    background-color: #002024;
-    color: orange;
+    background-color: #4cf;
+    color: #3b28cc;
+}
+
+p {
+    font-size: 20px;
+}
+
+.orbitron, h1 {
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #fdca40;
+    font-weight: bolder;
+    background-color: #3b28cc;
+    font-size: 20px; 
+}
+
+li {
+    list-style: none;
+}
+
+a:hover {
+    color: #f79824;
 }
